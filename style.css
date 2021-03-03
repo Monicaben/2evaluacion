@@ -1,0 +1,13 @@
+body {background-color: lightblue;}
+h1 {text-align: center;color: yellow;text-decoration: underline rgb(83, 2, 83);}
+img.alicante {width: 100px;height: 80px;}
+img.valencia {width: 100px;height: 80px;}
+img.castellon {width: 100px;height: 80px;}
+div.alicante1 {background-color:#800000;}
+div.valencia1 {background-color: #ff9900;text-align: center;}
+div.castellon1 {background-color: #ff99ff;text-align: right;}
+div.web {background-color: white; text-align: center;}
+div.ciudad {background-color: white;color: blue;}
+div.nombre {background-color: #ff99cc;}
+span.blue {color: blue;}
+span.pink {color: pink;}
